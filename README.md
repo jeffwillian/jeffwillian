@@ -1,12 +1,10 @@
 # Oiii eu sou Jefferson Willian, Bem vindo (a)
- Sou um estudante/iniciante em FullStack, iniciando curso superior em Análise e Desenvolvimento de Sistemas e já formado em Biomedicina!<br/><br/>
- :books:Estudando JavaScript, TypeScript, Node.js, React.js, Vue.js e AngularJS.
- 
-##
+Sou um estudante/iniciante em FullStack, iniciando curso superior em Análise e Desenvolvimento de Sistemas e já formado em Biomedicina!<br/><br/>
+:books:Estudando JavaScript, TypeScript, Node.js, React.js, Vue.js e AngularJS.
 
 <div>
 <a href="https://github.com/jeffwillian"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffwillian&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffwillian&include_all_commits=true&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffwillian&theme=dracula"/>
 </div>
  
@@ -18,9 +16,7 @@
  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
 
-
-####
-
+##
 
 <div>
  <a href="https://discord.gg/RdP4zkcQz9" target="_blank"/><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
