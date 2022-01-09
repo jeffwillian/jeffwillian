@@ -1,5 +1,6 @@
 # Oii!!! Eu sou Jefferson Willian
-#### Sou um estudante/iniciante em desenvolvimento, formado em biomedicina, mas se aventurando no mundo da tecnologia
+#### Sou um estudante/iniciante em FullStack, formado em biomedicina, mas se aventurando no mundo da tecnologia!
+#### :books:Estudando JavaScript, Node.js, React.js, Vue.js e AngularJS.
 
 <div>
  <a href="https://discord.gg/RdP4zkcQz9" target="_blank"/><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
