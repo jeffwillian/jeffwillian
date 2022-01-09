@@ -1,4 +1,4 @@
-# Oiii eu sou Jefferson Willian, Bem vindo (a)
+# Oiii eu sou Jefferson Willian
 Sou um estudante/iniciante em FullStack, iniciando curso superior em Análise e Desenvolvimento de Sistemas e já formado em Biomedicina!<br/><br/>
 :books:Estudando JavaScript, TypeScript, Node.js, React.js, Vue.js e AngularJS.
 
