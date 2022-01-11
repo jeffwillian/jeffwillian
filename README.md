@@ -1,9 +1,12 @@
-# Oiii eu sou Jefferson Willian  <img align="right" alt="Jeff-Img" height="360" width="300" src="https://cdn.discordapp.com/attachments/930248072515174404/930249732826206248/download20220100110224-removebg.png">
-<br/><br/>
+# Oiii eu sou Jefferson Willian  <img align="right" alt="Jeff-Img" height="120" width="120" src="https://cdn.discordapp.com/attachments/930248072515174404/930249732826206248/download20220100110224-removebg.png">
+## "Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo"
+<br/>
 Sou um estudante/iniciante em FullStack, iniciando curso superior em Análise e Desenvolvimento de Sistemas e já formado em Biomedicina!<br/><br/>
 :books:Estudando JavaScript, TypeScript, Node.js, React.js, Vue.js e AngularJS.
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+
+##
 
 <div>
 <a href="https://github.com/jeffwillian"/>
