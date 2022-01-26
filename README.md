@@ -10,8 +10,8 @@ Sou um estudante/iniciante em FullStack, iniciando curso superior em Análise e 
 
 <div>
 <a href="https://github.com/jeffwillian"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeffwillian&include_all_commits=true&show_icons=true&theme=discord_old_blurple"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffwillian&layout=compact&card_width=300&theme=discord_old_blurple"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffwillian&include_all_commits=true&show_icons=true&theme=discord_old_blurple"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffwillian&layout=compact&card_width=300&theme=discord_old_blurple"/>
 </div>
  
  
