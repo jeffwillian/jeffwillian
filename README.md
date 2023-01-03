@@ -1,7 +1,7 @@
 # Olá, bem vindo(a) ao meu GitHub
 <br/>
 Sou um estudante/iniciante em FullStack, iniciando curso superior em Análise e Desenvolvimento de Sistemas e já formado em Biomedicina!<br/><br/>
-:books:Estudando JavaScript, TypeScript, Node.js, React.js, Vue.js e AngularJS.
+:books:Estudando JavaScript, TypeScript, Node.js e Next.js.
 
 <br/>
 
